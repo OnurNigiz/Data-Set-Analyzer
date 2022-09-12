@@ -1,5 +1,5 @@
 # Data-Set-Analyzer
-### A calculator for statistic class in ITU.
+### A simple analyzer for statistic class in ITU.
 
 * Create a data set with "data-set-creator.py", the code will give you a txt file that is named as "big-data.txt", which has the created datas. You can change the size of the set if you play with the codes (default size: 100 values). To do this, follow the comment lines!
 * Run "run.py". You will receive some informations about the data-set like max./min. number, avarage, mode, median etc.
